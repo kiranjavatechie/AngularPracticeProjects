@@ -5,10 +5,9 @@ Before going to Projects first need to understand the basic concepts what and wh
 
 Now split the topics based on Preparation held:
 
-Node.js
-Angular 
-React.js
-Mongo DB.
+Angular Core Concepts:
+
+
 
 
 
